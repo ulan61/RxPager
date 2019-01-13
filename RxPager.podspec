@@ -9,5 +9,5 @@ s.source           = { :git => "https://github.com/RxSwiftCommunity/RxPager.git"
 s.social_media_url = 'https://twitter.com/pgherveou'
 s.ios.deployment_target = '8.0'
 s.source_files = 'RxPager/Classes/**/*'
-s.dependency 'RxSwift', "~> 4.0"
+s.dependency 'RxSwift', "~> 4.4.0"
 end
